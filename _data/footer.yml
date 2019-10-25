@@ -1,13 +1,11 @@
 - links:
-  - name: Preços
-    link: /pricing/
   - name: Sobre o projeto
     link: /about/
   - name: Contactos
     link: /contact/
 - links:
   - name: Docs
-    link: /
+    link: /doc/
     new_window: true
   - name: Status
     link: /
