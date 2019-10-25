@@ -1,4 +1,4 @@
-- name: Pricing
+- name: Preços
   link: /pricing/
   new_window: false
   highlight: false
@@ -6,19 +6,11 @@
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: Sobre Nós
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Contactos
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
