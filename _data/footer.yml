@@ -1,11 +1,9 @@
 - links:
   - name: Preços
     link: /pricing/
-  - name: Blog
-    link: /blog/
-  - name: Sobre Nós
+  - name: Sobre o projeto
     link: /about/
-  - name: Contact
+  - name: Contactos
     link: /contact/
 - links:
   - name: Docs

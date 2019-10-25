@@ -2,11 +2,7 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
-- name: Sobre Nós
+- name: Sobre o projeto
   link: /about/
   new_window: false
   highlight: false
